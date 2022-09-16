@@ -13,3 +13,12 @@ function num (){
     console.log (number)
     
     }
+
+    /*
+
+    Se encuentran dos gallegos:
+-Oye Manolo, ¿dónde has ganado esa trofeo?
+- En un concurso de matemáticas, de la forma mas fácil.
+- ¿Qué pasó?
+- Nos preguntaron cuánto es 7 más 7, dije 12, y quedé tercero. 
+*/
